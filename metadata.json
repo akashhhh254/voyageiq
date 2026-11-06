@@ -1,0 +1,6 @@
+{
+  "name": "VoyageOptima - Multi-Supplier Travel Optimization Platform",
+  "description": "Multi-supplier optimization platform for VoyageHack 4.0 featuring hotel deduplication, room mapping, best offer comparison, explainable ranking, and evaluation benchmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
